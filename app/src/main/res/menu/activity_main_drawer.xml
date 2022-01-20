@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:id="@+id/btnNavHome" android:title="Home" />
+    <item android:title="VIP Tips">
+        <menu>
+            <item android:id="@+id/btnNavSpecial" android:title="Special VIP" />
+            <item android:id="@+id/btnNavFixed" android:title="Fixed VIP" />
+            <item android:id="@+id/btnNavCorrectScore" android:title="Correct Score VIP" />
+            <item android:id="@+id/btnNavHtFt" android:title="HT-FT VIP" />
+            <item android:id="@+id/btnNavMulti" android:title="Multi 50+ Odds VIP" />
+            <item android:id="@+id/btnNavMixed" android:title="Mixed VIP" />
+        </menu>
+    </item>
+    <item android:title="Free Tips">
+        <menu>
+            <item android:id="@+id/btnNavDailySure" android:title="Daily Sure Tips" />
+            <item android:id="@+id/btnNavFootball" android:title="Football Tips" />
+            <item android:id="@+id/btnNavOverUnder" android:title="Over-Under" />
+            <item android:id="@+id/btnNavSingle" android:title="Single Tips" />
+            <item android:id="@+id/btnNavDaily20" android:title="Daily 20+ Odds" />
+            <item android:id="@+id/btnNavBonusSurprise" android:title="Bonus-Surprise" />
+            <item android:id="@+id/btnNavBasketball" android:title="Basketball" />
+            <item android:id="@+id/btnNavTennis" android:title="Tennis" />
+        </menu>
+    </item>
+    <item android:title="Info">
+        <menu>
+            <item android:id="@+id/btnNavSubscription" android:title="Subscriptions" />
+            <item android:id="@+id/btnNavPrivacy" android:title="Privacy Policy" />
+        </menu>
+    </item>
+</menu>

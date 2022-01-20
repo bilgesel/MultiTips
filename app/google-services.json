@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845838662811",
+    "firebase_url": "https://multi-betting-tips.firebaseio.com",
+    "project_id": "multi-betting-tips",
+    "storage_bucket": "multi-betting-tips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845838662811:android:51ce65c97efbd344875a3e",
+        "android_client_info": {
+          "package_name": "com.multitips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845838662811-4nk0b01livggqbavr7275rm215qcpv56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHuPWTuXa5E5qhZmIeYc2H6STGgFzPrtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845838662811-4nk0b01livggqbavr7275rm215qcpv56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

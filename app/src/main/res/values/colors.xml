@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#72E80B</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGray">#D2D2D2</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlue">#7480D6</color>
+    <color name="colorBet">#FFEB3B</color>
+    <color name="couponBackground">#000b21</color>
+</resources>
